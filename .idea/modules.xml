@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProgressUI/ProgressUI.iml" filepath="$PROJECT_DIR$/ProgressUI/ProgressUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressUIProject.iml" filepath="$PROJECT_DIR$/ProgressUIProject.iml" />
+    </modules>
+  </component>
+</project>
+
